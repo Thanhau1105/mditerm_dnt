@@ -31,5 +31,7 @@ Thumbs.db
 # Private runtime exports; database/users.json is the synthetic submission fixture.
 database/exports/
 database/users.export.json
-docs/screenshots-private/
+# Reports are maintained outside the source repository.
+/docs/
+/reports/
 
