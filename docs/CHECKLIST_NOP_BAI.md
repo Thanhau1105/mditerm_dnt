@@ -56,7 +56,7 @@ Sinh viên: **Trần Thành Hậu**. Các ô đã đánh dấu có bằng chứn
 
 ## GitHub và gói source
 
-- [ ] Repository thật đã tạo và push source cuối.
+- [x] Đã push source lên https://github.com/Thanhau1105/mditerm_dnt, nhánh `main`.
 - [x] `README.md` có lệnh chạy, tài khoản thử và cấu hình API URL.
 - [x] `.env` được Git bỏ qua; chưa có commit chứa bí mật.
 - [x] `node_modules`, `.dart_tool`, `build`, private exports, Android local settings và signing keys được Git bỏ qua.

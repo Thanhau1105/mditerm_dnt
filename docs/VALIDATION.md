@@ -36,7 +36,7 @@ Lần đầu chạy backend tests cần tải MongoDB binary; lượng tải có
 | Kết nối URI Atlas riêng | **Đã kết nối thành công** |
 | CRUD/ảnh trên Atlas | **Đạt qua REST API và đối chiếu trực tiếp MongoDB**; thao tác trong Compass vẫn cần chụp ảnh báo cáo |
 | Chọn ảnh bằng thư viện ảnh Android | Chưa kiểm tra thao tác trên gallery gốc; đã xác nhận Android đọc, preview, lưu lại và hiển thị ảnh từ Atlas |
-| Repository GitHub | Đích https://github.com/Thanhau1105/mditerm_dnt, nhánh `main`; cấu hình riêng và JSON export được loại khỏi source |
+| Repository GitHub | **Đã push** lên https://github.com/Thanhau1105/mditerm_dnt, nhánh `main`; commit source ban đầu `517d63b`. Cấu hình riêng và JSON export được loại khỏi source |
 | Video demo và ảnh báo cáo cuối | Chờ quay/chụp thực tế |
 
 Cập nhật các ô trên bằng log và ảnh đúng của lần chạy cuối. Các trạng thái đang chờ không phải lỗi được xác nhận; chúng cho biết phần chưa có bằng chứng thực nghiệm trong tài liệu này.
