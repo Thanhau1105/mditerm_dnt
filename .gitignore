@@ -1,0 +1,35 @@
+# Secrets and local settings
+**/.env
+**/.env.*
+!**/.env.example
+**/*.local
+
+# Node
+**/node_modules/
+**/coverage/
+**/.cache/
+**/npm-debug.log*
+
+# Flutter and Android
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/.gradle/
+**/local.properties
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# IDE and OS
+**/.idea/
+**/*.iml
+**/.qa-chrome/
+.DS_Store
+Thumbs.db
+
+# Private runtime exports; database/users.json is the synthetic submission fixture.
+database/exports/
+database/users.export.json
+docs/screenshots-private/
+
